@@ -7,9 +7,7 @@ function SidebarMenu() {
         </div>
         <div className="flex flex-col items-left mt-4">
           <div className="inline-flex flex-col items-start bg-sky-600/50 rounded-lg p-3 my-2 w-[100%]">
-            <button className="hover:bg-sky-500/50 duration-150 w-[100%] text-left px-2 rounded-md">
-              Tasks
-            </button>
+            <h2 className="select-none text-lg font-semibold">Tasks</h2>
             <div className="inline-flex flex-col items-start ml-5">
               <button className="hover:bg-sky-500/50 duration-150 w-[100%] text-left px-2 rounded-md">
                 Planed
@@ -23,9 +21,7 @@ function SidebarMenu() {
             </div>
           </div>
           <div className="inline-flex flex-col items-start bg-sky-600/50 rounded-lg p-3 my-2 ">
-            <button className="hover:bg-sky-500/50 duration-150 w-[100%] text-left px-2 rounded-md">
-              Settings
-            </button>
+            <h2 className="select-none text-lg font-semibold">Setting</h2>
             <div className="inline-flex flex-col items-start ml-5">
               <button className="hover:bg-sky-500/50 duration-150 w-[100%] text-left px-2 rounded-md">
                 Dark mode
