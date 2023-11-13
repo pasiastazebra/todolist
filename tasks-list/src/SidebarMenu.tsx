@@ -1,7 +1,7 @@
 function SidebarMenu() {
   return (
     <div className="flex flex-1">
-      <aside className="flex-col bg-sky-700 text-gray-200 py-3 px-7  min-w-[200px] w-[230px] ">
+      <aside className="flex-col bg-sky-700 text-gray-200 py-3 px-7  min-w-[230px]">
         <div className="flex flex-col items-left">
           <h1 className="text-2xl font-bold">Tasks system</h1>
         </div>
