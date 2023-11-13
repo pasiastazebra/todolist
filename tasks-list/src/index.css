@@ -4,5 +4,5 @@
 
 .gridContainer {
     display: grid;
-    grid-template-columns: 230px 230px 100%;
+    grid-template-columns: 20% 20% 70%;
 }

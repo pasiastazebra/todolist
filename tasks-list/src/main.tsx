@@ -11,7 +11,6 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
     <div className="gridContainer h-[100vh]">
       <SidebarMenu />
       <TasksBar />
-      <div></div>
     </div>
   </React.StrictMode>
 );
